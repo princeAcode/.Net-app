@@ -90,3 +90,4 @@ dotnet test
 
 **Local vs. cloud design.** The `IQueueService` abstraction decouples the worker from any specific transport. Locally, `InMemoryQueueService` (backed by `System.Threading.Channels`) is used with no external dependencies. Switching to SQS in a deployed environment is a single line change in `Program.cs`. The same pattern applies to `IStorageService` — the S3 client is pre-configured for LocalStack but works against real AWS with no code changes.
 # .Net-app
+# .Net-app
