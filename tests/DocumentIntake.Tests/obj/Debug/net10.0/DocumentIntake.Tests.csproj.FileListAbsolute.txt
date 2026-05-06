@@ -1,0 +1,6 @@
+/Users/prince/Documents/Workspace/DocumentIntake/tests/DocumentIntake.Tests/bin/Debug/net10.0/.msCoverageSourceRootsMapping_DocumentIntake.Tests
+/Users/prince/Documents/Workspace/DocumentIntake/tests/DocumentIntake.Tests/obj/Debug/net10.0/DocumentIntake.Tests.csproj.AssemblyReference.cache
+/Users/prince/Documents/Workspace/DocumentIntake/tests/DocumentIntake.Tests/obj/Debug/net10.0/DocumentIntake.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/prince/Documents/Workspace/DocumentIntake/tests/DocumentIntake.Tests/obj/Debug/net10.0/DocumentIntake.Tests.AssemblyInfoInputs.cache
+/Users/prince/Documents/Workspace/DocumentIntake/tests/DocumentIntake.Tests/obj/Debug/net10.0/DocumentIntake.Tests.AssemblyInfo.cs
+/Users/prince/Documents/Workspace/DocumentIntake/tests/DocumentIntake.Tests/obj/Debug/net10.0/DocumentIntake.Tests.csproj.CoreCompileInputs.cache

@@ -1,0 +1,97 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "DocumentIntake.Api/1.0.0": {
+        "dependencies": {
+          "AWSSDK.Extensions.NETCore.Setup": "3.7.301",
+          "AWSSDK.S3": "3.7.414",
+          "AWSSDK.SQS": "3.7.400"
+        },
+        "runtime": {
+          "DocumentIntake.Api.dll": {}
+        }
+      },
+      "AWSSDK.Core/3.7.401.10": {
+        "runtime": {
+          "lib/net8.0/AWSSDK.Core.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.401.10"
+          }
+        }
+      },
+      "AWSSDK.Extensions.NETCore.Setup/3.7.301": {
+        "dependencies": {
+          "AWSSDK.Core": "3.7.401.10"
+        },
+        "runtime": {
+          "lib/net8.0/AWSSDK.Extensions.NETCore.Setup.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.7.0"
+          }
+        }
+      },
+      "AWSSDK.S3/3.7.414": {
+        "dependencies": {
+          "AWSSDK.Core": "3.7.401.10"
+        },
+        "runtime": {
+          "lib/net8.0/AWSSDK.S3.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.414.0"
+          }
+        }
+      },
+      "AWSSDK.SQS/3.7.400": {
+        "dependencies": {
+          "AWSSDK.Core": "3.7.401.10"
+        },
+        "runtime": {
+          "lib/net8.0/AWSSDK.SQS.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.400.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DocumentIntake.Api/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AWSSDK.Core/3.7.401.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-n8UJG7Vfo44JoSPZbo1wO+Fv7ZGz0jZy4kVMYOHGKsmxNFE5i/E/dlpis7ORnUHYx3dS2LCmNuX9ArhUmYKMEA==",
+      "path": "awssdk.core/3.7.401.10",
+      "hashPath": "awssdk.core.3.7.401.10.nupkg.sha512"
+    },
+    "AWSSDK.Extensions.NETCore.Setup/3.7.301": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-hXejqa+G72kVCSmpKlNVWDEqa8KVWOFL/asgoE2mairQOnmTCv6vMxaXjJ0nQaad5/21zTdKDIfDiki5YTne1Q==",
+      "path": "awssdk.extensions.netcore.setup/3.7.301",
+      "hashPath": "awssdk.extensions.netcore.setup.3.7.301.nupkg.sha512"
+    },
+    "AWSSDK.S3/3.7.414": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-nN9NVXTwVHBOqC1YjjaYKd/iaVPuHAtyM5Vv8wJH/myS2os5HCdJ1R0Pwb0H1hlfREd0mt8HYGduQXXujKp8Kw==",
+      "path": "awssdk.s3/3.7.414",
+      "hashPath": "awssdk.s3.3.7.414.nupkg.sha512"
+    },
+    "AWSSDK.SQS/3.7.400": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-UHG5JMcvzEHbV/UH13NjBR1KjaMXFMmoZrz9GDHp+JKuFcGPGu1aJ9Vrxkjm0NkDXXjs/WbKcnXISA8mBV91jw==",
+      "path": "awssdk.sqs/3.7.400",
+      "hashPath": "awssdk.sqs.3.7.400.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//usr/local/share/dotnet/**)",
+      "Read(//Users/prince/.dotnet/**)",
+      "Read(//usr/local/share/**)",
+      "Read(//opt/homebrew/bin/**)",
+      "Read(//usr/**)",
+      "Bash(chmod:*)"
+    ]
+  }
+}

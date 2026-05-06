@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "D2UkX47U4q0=",
+  "success": true,
+  "projectFilePath": "/Users/prince/Documents/Workspace/DocumentIntake/src/DocumentIntake.Api/DocumentIntake.Api.csproj",
+  "expectedPackageFiles": [
+    "/Users/prince/.nuget/packages/awssdk.core/3.7.401.10/awssdk.core.3.7.401.10.nupkg.sha512",
+    "/Users/prince/.nuget/packages/awssdk.extensions.netcore.setup/3.7.301/awssdk.extensions.netcore.setup.3.7.301.nupkg.sha512",
+    "/Users/prince/.nuget/packages/awssdk.s3/3.7.414/awssdk.s3.3.7.414.nupkg.sha512",
+    "/Users/prince/.nuget/packages/awssdk.sqs/3.7.400/awssdk.sqs.3.7.400.nupkg.sha512"
+  ],
+  "logs": []
+}

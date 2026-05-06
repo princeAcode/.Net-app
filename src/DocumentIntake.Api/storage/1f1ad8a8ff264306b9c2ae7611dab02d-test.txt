@@ -1,0 +1,1 @@
+This is a sample legal document used for testing the Document Intake Service preview generation feature.
